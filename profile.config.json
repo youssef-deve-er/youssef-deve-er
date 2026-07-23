@@ -15,7 +15,7 @@
   "research": {
     "primary": "Automation & Security",
     "direction": "Secure & Automated Workflows",
-    "themes": "Python / Web App Security / Automation",
+    "themes": "Python / Web Security / Automation",
     "narrative": "I am interested in creating efficient software, understanding security mechanisms, and leveraging automation to streamline developer workflows."
   },
   "focus": [
@@ -42,7 +42,7 @@
       "heroLabel": "Main Portfolio"
     },
     {
-      "name": "Automation & Scripting Utilities",
+      "name": "Python Scripts",
       "url": "https://github.com/youssef-deve-er",
       "homepage": "",
       "focus": "System Automation",
@@ -75,5 +75,5 @@
   "appearance": {
     "palette": "signal"
   },
-  "footer": "Building practical tools, exploring security, and shipping software."
+  "footer": "Building practical tools, exploring security, and sharing what works."
 }
