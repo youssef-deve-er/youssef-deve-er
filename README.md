@@ -45,7 +45,12 @@ I am interested in creating efficient software, understanding security mechanism
 ## Recent Activity
 
 <!-- AUTO:ACTIVITY:START -->
-_Recent public activity will appear here after the workflow runs._
+- Jul 23, 2026: pushed 1 commit to [youssef-deve-er/digital-clock](https://github.com/youssef-deve-er/digital-clock).
+- Jul 23, 2026: pushed 1 commit to [youssef-deve-er/weather-app](https://github.com/youssef-deve-er/weather-app).
+- Jul 23, 2026: pushed 1 commit to [youssef-deve-er/portfolio](https://github.com/youssef-deve-er/portfolio).
+- Jul 23, 2026: pushed 1 commit to [youssef-deve-er/calculator](https://github.com/youssef-deve-er/calculator).
+- Jul 23, 2026: created a branch in [youssef-deve-er/calculator](https://github.com/youssef-deve-er/calculator).
+- Jul 23, 2026: created a branch in [youssef-deve-er/weather-app](https://github.com/youssef-deve-er/weather-app).
 <!-- AUTO:ACTIVITY:END -->
 
 ---
