@@ -46,9 +46,6 @@ I am interested in creating efficient software, understanding security mechanism
 
 <!-- AUTO:ACTIVITY:START -->
 - Jul 29, 2026: pushed 1 commit to [youssef-deve-er/portfolio](https://github.com/youssef-deve-er/portfolio).
-- Jul 27, 2026: pushed 1 commit to [youssef-deve-er/dashboard](https://github.com/youssef-deve-er/dashboard).
-- Jul 27, 2026: created a branch in [youssef-deve-er/dashboard](https://github.com/youssef-deve-er/dashboard).
-- Jul 27, 2026: pushed 1 commit to [youssef-deve-er/portfolio](https://github.com/youssef-deve-er/portfolio).
 <!-- AUTO:ACTIVITY:END -->
 
 ---
